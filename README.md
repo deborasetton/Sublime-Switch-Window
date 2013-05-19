@@ -20,3 +20,7 @@ The default key binding is `Command + Shift + .`.
 ### TODO: ###
 
 - Bind to new window event (even though it doesn't look like it's possible);
+
+### License ###
+
+MIT License. Copyright 2013 Débora Setton.
